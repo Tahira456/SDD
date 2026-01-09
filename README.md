@@ -23,7 +23,8 @@ Design Considerations:
 
 Architecture: A three-tier Client-Server architecture is utilized, featuring Python (Django) for the backend and a centralized MySQL database for data storage.
 Performance:
-The design is optimized to achieve a fast response time of less than 2 seconds.
+The design is optimized to achieve a[Tahira's SDD.docx](https://github.com/user-attachments/files/24519929/Tahira.s.SDD.docx)
+ fast response time of less than 2 seconds.
 Security:
 Measures include secure authentication and implementing role-based access to protect sensitive patient data.
 Scalability:
